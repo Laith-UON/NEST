@@ -53,6 +53,7 @@ When the process is complete, the status will show:
 Done!
 
 The program will also display the names of the three generated output files.
+
                                                  1. <input_name>_acceleration.txt
                                                  2. <input_name>_gyro.txt
                                                  3. <input_name>_orientation.txt
